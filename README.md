@@ -24,4 +24,4 @@
 - Friday
   - 12:00 [Comp 1238](https://learn.georgebrown.ca/d2l/home/513886)
 
-- [workstation](https://github.com/trevorbrumwell927-ops/workstation)
+- [Workstation](https://github.com/trevorbrumwell927-ops/workstation)
