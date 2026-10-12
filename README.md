@@ -1,4 +1,4 @@
-# workstation
+# My workstation
 
 ## Links
 - [D2L](https://learn.georgebrown.ca)
